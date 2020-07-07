@@ -20,3 +20,36 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+.categories img{
+    width: 100px;
+}
+.cat1{
+    background-color:tomato;
+}
+.cat2{
+    background-color: magenta;
+}
+.cat3{
+    background-color: blueviolet;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray ;
+    border-radius: 10px;
+}
+#contactus{
+    height: 300px;
+}
+#contactus h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
